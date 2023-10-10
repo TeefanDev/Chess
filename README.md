@@ -1,14 +1,16 @@
 ![bannerImage](chess_banner.jpeg)
 
 ---
-[![Build Status](https://github.com/PanterSoft/Chess/actions/workflows/scala.yml/badge.svg?branch=main)](https://github.com/PanterSoft/Chess/actions/workflows/scala.yml)
-[![Coverage Status](https://coveralls.io/repos/github/PanterSoft/Chess/badge.svg?branch=main)](https://coveralls.io/github/PanterSoft/Chess?branch=main)
-![RepoSize](https://img.shields.io/github/repo-size/PanterSoft/Chess)
+[![Build Status](https://github.com/TeefanDev/Chess/actions/workflows/scala.yml/badge.svg?branch=main)](https://github.com/TeefanDev/Chess/actions/workflows/scala.yml)
+[![Coverage Status](https://coveralls.io/repos/github/TeefanDev/Chess/badge.svg?branch=main)](https://coveralls.io/github/TeefanDev/Chess?branch=main)
+![RepoSize](https://img.shields.io/github/repo-size/TeefanDev/Chess)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MI)
-![Forks](https://img.shields.io/github/forks/PanterSoft/Chess?color=green&style=social)
-![Watcher](https://img.shields.io/github/watchers/PanterSoft/Chess?style=social)
+![Forks](https://img.shields.io/github/forks/TeefanDev/Chess?color=green&style=social)
+![Watcher](https://img.shields.io/github/watchers/TeefanDev/Chess?style=social)
 
 ---
+
+## Will be changed on new Branch Web-Applications
 
 # How to run Docker container with X11
 
@@ -29,6 +31,6 @@ xhost -
 ---
 
 ## Contributors
-| [PanterSoft](https://github.com/PanterSoft)  |  [TeefanDev](https://github.com/TeefanDev) |
+| [julienco03](https://github.com/julienco03)  |  [TeefanDev](https://github.com/TeefanDev) |
 |---|---|
-| ![image](https://github-readme-streak-stats.herokuapp.com/?user=PanterSoft) | ![image](https://github-readme-streak-stats.herokuapp.com/?user=TeefanDev)  |
+| ![image](https://github-readme-streak-stats.herokuapp.com/?user=julienco03) | ![image](https://github-readme-streak-stats.herokuapp.com/?user=TeefanDev)  |
